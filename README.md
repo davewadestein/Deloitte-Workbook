@@ -4,3 +4,4 @@
   * alternative... Google Colaboratory https://colab.research.google.com/
 * Survey link https://www.surveymonkey.com/r/PBCDDWV
 * Python Tutor www.pythontutor.com
+* dpaste, for copy/pasting code https://dpaste.com/
